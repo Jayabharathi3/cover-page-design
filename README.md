@@ -58,6 +58,7 @@ Add images and other contents using CSS record a screenshot of it.
         .tophr{
             width:140px;
         }
+        
         .author{
             color: white;
             display: inline;
@@ -69,6 +70,7 @@ Add images and other contents using CSS record a screenshot of it.
             font-family:'ink free';
             font-size: large;
         }
+        
         .booktitle{
             font-family: 'gabriola', monospace;
             font-size: x-large;
@@ -85,6 +87,7 @@ Add images and other contents using CSS record a screenshot of it.
             top:155px;
             left:330px;
         }
+        
         .edition{
             color:yellow;
             font-size: large;
@@ -94,6 +97,7 @@ Add images and other contents using CSS record a screenshot of it.
             top:65px;
 
         }
+        
         .subtitle{
             font-family: 'Segoe script';
             font-size: large;
@@ -119,6 +123,7 @@ Add images and other contents using CSS record a screenshot of it.
              font-size: x-large;
              font-family: 'franklin gothic', sans-serif; 
         }
+        
         .text-containers {
              position: absolute;
              top: 360px;
@@ -127,6 +132,7 @@ Add images and other contents using CSS record a screenshot of it.
              font-size: x-large;
              font-family: 'franklin gothic', sans-serif; 
         }
+        
         .text-containerss {
              position: absolute;
              top: 400px;
@@ -144,42 +150,55 @@ Add images and other contents using CSS record a screenshot of it.
             <div class="toptext">
                 EXPERT INSIGHT
             </div>
+            
             <div class="tophr">
                 <hr style="color: red;">
             </div>
+            
             <div class="subtitle">
                 TiNy chAnGes 
             </div>
+            
             <div class="subtitle">
                 ReMArkAbLe  rEsULtS ...
+            </div>
+            
             <div class="booktitle">
-                <h1>ATOMIC HABITS</h1></div>
+                <h1>ATOMIC HABITS</h1>
+            </div>
+                
             <div class="subtitle">
                 An eASy AnD pROveN WAyS tO BUilD GooD haBItS & bREaK BAd ONeS
             </div>  
+            
             <div class="photo">
                 <img src="/static/images/author 2.png" width="130" height="145" alt="">
             </div>
+            
             <div class="text-container">
                 <p> HabItS </p>
             </div>
+            
             <div class="text-containers">
                 <p> dETerMiNeS </p> 
             </div>
+            
             <div class="text-containerss">
                 <p> yOu... </p>                  
             </div>
 
-
             <div class="author">
                <p><b>JaYAbHaRAtHi</b></p>
             </div>
+            
             <div class="publisher">
                 Avery>
             </div>
+            
             <div class="edition">
                 <b>First Edition</b>
             </div>
+            
             <div class="edition">
                 <b>October 2018</b>
             </div>
