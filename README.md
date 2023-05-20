@@ -58,154 +58,160 @@ Add images and other contents using CSS record a screenshot of it.
         .tophr{
             width:140px;
         }
-        
         .author{
             color: white;
             display: inline;
             position: relative;
             text-align: left;
             color:yellow;
-            top:150px;
+            top:130px;
             
             font-family:'ink free';
             font-size: large;
         }
-        
         .booktitle{
             font-family: 'gabriola', monospace;
             font-size: x-large;
             text-align: center;
             position: relative;
-            color:purple;
             top: 19px;
+            color:purple;
         
         }
+        
         
         .publisher{
-            font-size: large;
+            font-size: medium;
             position: relative;
-            top:155px;
+            color:thistle;
+            top:105px;
             left:330px;
         }
-        
         .edition{
             color:yellow;
             font-size: large;
-            font-family: ink free;
-            position:relative;
+            font-family: 'ink free';
             text-align: right;
-            top:65px;
+            position:relative;
+            top:25px;
 
         }
-        
         .subtitle{
-            font-family: 'Segoe script';
+            font-family:'Segoe script';
             font-size: large;
             text-align: center;
             position: relative;
             top:17px;
         }
-
         .photo{
             position: relative;
-            top: 90px;
+            top: 65px;
             left: 260px;
             width: 100px;
             height: 100px;
             background-size: cover;
         }
-
         .text-container {
-             position: absolute;
-             top: 320px;
-             left: 50px; 
-             color: black;
-             font-size: x-large;
-             font-family: 'franklin gothic', sans-serif; 
-        }
-        
-        .text-containers {
-             position: absolute;
-             top: 360px;
-             left: 80px; 
-             color: black;
-             font-size: x-large;
-             font-family: 'franklin gothic', sans-serif; 
-        }
-        
-        .text-containerss {
-             position: absolute;
-             top: 400px;
-             left: 115px; 
-             color: black;
-             font-size: x-large;
-             font-family: 'franklin gothic', sans-serif; 
+            position: absolute;
+            top: 395px;
+            left: 550px; 
+            color:black;
+            font-size: x-large;
+            font-family: 'cambria math',sans-serif ;
         }
 
+         .text-containers {
+            position: absolute;
+            top: 435px;
+            left: 590px; 
+            color:black;
+            font-size: x-large;
+            font-family: 'cambria math',sans-serif;
+        }
+
+        .text-containerss {
+            position: absolute;
+            top: 470px;
+            left: 635px; 
+            color:black;
+            font-size: x-large;
+            font-family:  'cambria math',sans-serif;
+        }
+ 
+
+         
         </style>
         <title>Book Cover Page</title>
     </head>
     <body>
+
         <div class="bookpage">
             <div class="toptext">
                 EXPERT INSIGHT
             </div>
-            
+
             <div class="tophr">
                 <hr style="color: red;">
             </div>
-            
+
             <div class="subtitle">
-                TiNy chAnGes 
+                TiNy  chAnGEs
             </div>
-            
+
             <div class="subtitle">
-                ReMArkAbLe  rEsULtS ...
-            </div>
-            
+                ReMarKAblE  rEsulTs....
+            </div>    
+
             <div class="booktitle">
-                <h1>ATOMIC HABITS</h1>
+                <h1>ATOMIC HABITS </h1>
             </div>
-                
+
             <div class="subtitle">
-                An eASy AnD pROveN WAyS tO BUilD GooD haBItS & bREaK BAd ONeS
-            </div>  
+                An EasY wAy AnD pROvEn WAys TO BuIld gOoD haBIts & bReAk baD ONes
+            </div>
             
+
             <div class="photo">
                 <img src="/static/images/author 2.png" width="130" height="145" alt="">
             </div>
             
             <div class="text-container">
-                <p> HabItS </p>
+               <p>HaBits </p> 
             </div>
-            
+
             <div class="text-containers">
-                <p> dETerMiNeS </p> 
+               <p> deFiNEs </p> 
             </div>
-            
+
             <div class="text-containerss">
-                <p> yOu... </p>                  
+               <p> yOu....</p> 
             </div>
 
             <div class="author">
-               <p><b>JaYAbHaRAtHi</b></p>
+               <p><b>Cover page by </b></p>
             </div>
             
+            <div class="author">
+               <p><b>JAYABHARATHI</b></p>
+            </div>
+
             <div class="publisher">
-                Avery>
+                Packt>
+            </div>
+            
+            <div class="edition">
+                <b>JAMES CLEAR's</b>
             </div>
             
             <div class="edition">
                 <b>First Edition</b>
             </div>
             
-            <div class="edition">
-                <b>October 2018</b>
-            </div>
-            
         </div>
     </body>
 </html>
+            
+
 
 ```
 
@@ -213,12 +219,13 @@ Add images and other contents using CSS record a screenshot of it.
 
 ## CLIENT OUTPUT:
 
-![cover](https://github.com/Jayabharathi3/cover-page-design/assets/120367796/02f24e8a-16e1-40da-a64c-18df12cee3ed)
+![bookc1](https://github.com/Jayabharathi3/cover-page-design/assets/120367796/1b165118-3a57-40b6-a352-b84c84206f47)
 
 
 ## SERVER OUTPUT:
 
-![image](https://github.com/Jayabharathi3/cover-page-design/assets/120367796/30b394ae-5c27-4871-9212-f613f2dc74dc)
+![server1](https://github.com/Jayabharathi3/cover-page-design/assets/120367796/daebeb7e-a2e2-4fef-821f-6f8f2c7203d2)
+
 
 
 ## Result:
