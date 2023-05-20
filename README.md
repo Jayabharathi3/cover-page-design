@@ -224,10 +224,12 @@ Add images and other contents using CSS record a screenshot of it.
 
 
 
+
 ## BOOK COVER:
 
 
-![cover2](https://github.com/Jayabharathi3/cover-page-design/assets/120367796/cd869fb2-7f8f-4f83-869d-8178ce2c2ea8)
+   ![cover2](https://github.com/Jayabharathi3/cover-page-design/assets/120367796/cd869fb2-7f8f-4f83-869d-8178ce2c2ea8)
+
 
 
 
@@ -235,6 +237,7 @@ Add images and other contents using CSS record a screenshot of it.
 
 
 ![server1](https://github.com/Jayabharathi3/cover-page-design/assets/120367796/daebeb7e-a2e2-4fef-821f-6f8f2c7203d2)
+
 
 
 
