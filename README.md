@@ -230,6 +230,10 @@ Add images and other contents using CSS record a screenshot of it.
 ![server1](https://github.com/Jayabharathi3/cover-page-design/assets/120367796/daebeb7e-a2e2-4fef-821f-6f8f2c7203d2)
 
 
+## HTML VALIDATOR:
+
+![htmlcover](https://github.com/Jayabharathi3/cover-page-design/assets/120367796/c12d1f35-ad1b-40fe-a6bb-d120847e20d0)
+
 
 ## Result:
 
